@@ -1,0 +1,24 @@
+site_name: 'Backstage Example'
+site_description: 'Main documentation for Backstage features and platform APIs'
+repo_url: https://github.com/dweber019/backstage-example
+edit_uri: edit/master/docs
+
+plugins:
+  - techdocs-core
+
+nav:
+  - Getting Started:
+      - Getting Started: 'getting-started/index.md'
+      - Create an App: 'getting-started/create-an-app.md'
+      - Running Backstage locally: 'getting-started/running-backstage-locally.md'
+      - App configuration:
+          - Configuring App with plugins: 'getting-started/configure-app-with-plugins.md'
+          - Customize the look-and-feel of your App: 'getting-started/app-custom-theme.md'
+      - Keeping Backstage Updated: 'getting-started/keeping-backstage-updated.md'
+      - Key Concepts: 'getting-started/concepts.md'
+      - Contributors: 'getting-started/contributors.md'
+      - Project Structure: 'getting-started/project-structure.md'
+  - ADRs:
+      - 0001: '0001-adr-1.md'
+      - 0002: '0002-adr-2.md'
+      - 0003: '0003-adr-3-before.md'
