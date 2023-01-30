@@ -11,7 +11,7 @@ Technical Story: [description | ticket/issue URL] <!-- optional -->
 
 ## Decision Drivers <!-- optional -->
 
-![Alt 1](https://via.placeholder.com/150)
+![](https://via.placeholder.com/150)
 
 * [driver 1, e.g., a force, facing concern, …]
 * [driver 2, e.g., a force, facing concern, …]

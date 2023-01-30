@@ -12,6 +12,8 @@ Technical Story: [description | ticket/issue URL] <!-- optional -->
 
 ## Decision Drivers <!-- optional -->
 
+<img src="https://via.placeholder.com/150" alt="bubu" />
+
 * [driver 1, e.g., a force, facing concern, …]
 * [driver 2, e.g., a force, facing concern, …]
 * … <!-- numbers of drivers can vary -->
