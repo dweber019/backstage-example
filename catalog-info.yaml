@@ -16,6 +16,7 @@ metadata:
   annotations:
     backstage.io/techdocs-ref: dir:.
     backstage.io/adr-location: docs/adrs
+    quay.io/repository-slug: jetstack/cert-manager-controller
 spec:
   type: library
   owner: CNCF
